@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background:#020617;
+}
+
+/* ---------- Light Theme ---------- */
+
+body.light-mode{
+
+    background:#f8fafc;
+
+    color:#111827;
+
+}
+
+body.light-mode aside{
+
+    background:white;
+
+    border-color:#d1d5db;
+
+}
+
+body.light-mode header{
+
+    background:white;
+
+    border-color:#d1d5db;
+
+}
+
+body.light-mode textarea{
+
+    background:white;
+
+    color:black;
+
+}
+
+body.light-mode .bg-slate-900{
+
+    background:white!important;
+
+}
+
+body.light-mode .bg-slate-950{
+
+    background:#f8fafc!important;
+
+}
+
+body.light-mode .border-slate-800{
+
+    border-color:#d1d5db!important;
+
+}
+
+body.light-mode .text-white{
+
+    color:#111827!important;
+
+}
+
+body.light-mode .text-slate-300{
+
+    color:#374151!important;
+
+}
+
+body.light-mode .text-slate-400{
+
+    color:#6b7280!important;
+
+}
