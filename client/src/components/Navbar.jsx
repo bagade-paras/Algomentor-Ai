@@ -1,5 +1,5 @@
 import { useState } from "react";
-import About from "./AboutTemp";
+import About from "./About";
 
 export default function Navbar() {
 
