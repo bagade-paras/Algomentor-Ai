@@ -5,11 +5,11 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="p-6 border-b border-slate-800">
         <h1 className="text-3xl font-bold text-violet-500">
-          AlgoMentor 
+          AlgoMentor  AI
         </h1>
 
         <p className="text-slate-400 text-sm">
-          AI
+         
         </p>
       </div>
 
