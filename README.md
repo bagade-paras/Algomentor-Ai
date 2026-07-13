@@ -16,7 +16,8 @@ https://algomentor-ai-6pke.onrender.com
 
 ## 📸 Preview
 
-<img width="100%" alt="AlgoMentor AI Dashboard" src="https://via.placeholder.com/1200x650.png?text=AlgoMentor+AI+Dashboard">
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/8dfd320d-e124-418d-989e-8dfa8604dfd3" />
+
 
 ---
 
@@ -183,11 +184,13 @@ Hosted on **Render**
 
 ## Dashboard
 
-(Add your screenshot here)
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/8dfd320d-e124-418d-989e-8dfa8604dfd3" />
+
 
 ## AI Response
 
-(Add another screenshot here)
+<img width="1718" height="560" alt="image" src="https://github.com/user-attachments/assets/e878a8ed-a01a-4439-b476-8ce659128cec" />
+
 
 ---
 
@@ -195,10 +198,7 @@ Hosted on **Render**
 
 - Chat History
 - Authentication
-- Save Notes
-- Code Editor
 - Multiple AI Models
-- Voice Input
 - DSA Roadmap
 - Coding Challenges
 - AI Quiz Generator
